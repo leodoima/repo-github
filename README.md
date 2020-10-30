@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 - [ReactJs](https://reactjs.org/)
 
-### Rodando aplicaço
+### Rodando aplicação
 
 ```bash
 # Clone do repositório
