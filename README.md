@@ -11,8 +11,6 @@ Aplicação de listagem de repositórios Github desenvolvida em ReactJS
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
 - [ReactJs](https://reactjs.org/)
 
 ### Rodando aplicação
