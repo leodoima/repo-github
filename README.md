@@ -2,8 +2,8 @@
 Aplicação de listagem de repositórios Github desenvolvida em ReactJS
 
 <h1 align="center">
-  <img width="500px" height="300px"  src="/assets/repo1.png" />
-  <img width="500px" height="300px"  src="/assets/repo2.png" />
+  <img src="/assets/repo1.png" />
+  <img  src="/assets/repo2.png" />
   
 </h1>
 
