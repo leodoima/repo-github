@@ -7,11 +7,10 @@ Aplicação de listagem de repositórios Github desenvolvida em ReactJS
   
 </h1>
 
-### Tecnologias
+### Sobre
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [ReactJs](https://reactjs.org/)
+A aplicação tem como objetivo criar uma interface para visualização de informações sobre repositórios git. Nela o usuário faz a busca e acessa informações utilizando 
+a API do Github.
 
 ### Rodando aplicação
 
